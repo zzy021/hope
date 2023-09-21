@@ -1,2 +1,2 @@
 # hope
-This is a star Kirby
+This is a Kirby's Dream Land
